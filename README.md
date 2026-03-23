@@ -1,3 +1,6 @@
+# PowerBi Practice
+
+
 ##🌍 Sales & Market Analysis
 
 - ภูมิภาคไหนมียอดขายรวมสูงสุด (NA / JP / PAL / Other)?
